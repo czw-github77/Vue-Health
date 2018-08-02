@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue2-native
 ![image](https://img.shields.io/badge/vue-2.5.13-blue.svg)
 ![image](https://img.shields.io/badge/vue--router-3.0.1-blue.svg)
@@ -197,3 +198,7 @@ npm run build（File in the docs folder）
 [MIT](https://github.com/uncleLian/vue2-native/blob/master/LICENSE)
 
 Copyright (c) 2017-present，uncleLian
+=======
+# Vue-Health
+基于vue2 + vue-router + vuex 构建的一个新闻类大型单页面应用 —— 仿今日头条
+>>>>>>> d47b319ff81326782ec7b36a3c4fd5979f5b8629
