@@ -52,10 +52,10 @@ export default new Vuex.Store({
     actions,
     modules: {
         index: index_module,
-        detail: det,
+        detail: detail_module,
         search: search_module,
         login: login_module,
-        collect: collect_module,ail_module
+        collect: collect_module,
         video: video_module,
         user: user_module,
         health: health_module

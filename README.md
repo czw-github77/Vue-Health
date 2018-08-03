@@ -1,12 +1,12 @@
 <<<<<<< HEAD
-# vue-health
+# Vue-Health
 ![image](https://img.shields.io/badge/vue-2.5.13-blue.svg)
 ![image](https://img.shields.io/badge/vue--router-3.0.1-blue.svg)
 ![image](https://img.shields.io/badge/vuex-3.0.1-blue.svg)
 ![image](https://img.shields.io/badge/mint--ui-2.2.13-blue.svg)
 
 ## 简介
-vue-health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/hybrid%20app/270520?fr=aladdin)项目，页面代码使用Vue开发，共20个页面，涉及文章的分类、展示、阅读、推荐、搜索和用户的登录、评论、收藏以及后台文章编辑等等，是一个对vue进行全面练习的项目
+Vue-Health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/hybrid%20app/270520?fr=aladdin)项目，页面代码使用Vue开发，共20个页面，涉及文章的分类、展示、阅读、推荐、搜索和用户的登录、评论、收藏以及后台文章编辑等等，是一个对vue进行全面练习的项目
 
 
 
@@ -15,11 +15,11 @@ vue-health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/
 
 [项目演示请戳这里](http://native.liansixin.win)（请使用手机模式预览）
 
-<img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/native_QRcode.png" width="250" height="250"/>
+<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_QRcode.png" width="250" height="250"/>
 
 [安装包请戳这里](http://m.toutiaojk.com/guide.html)（目前只支持 Android）
 
-<img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/downLoad_QRcode.png" width="250" height="250"/>
+<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/downLoad_QRcode.png" width="250" height="250"/>
 
 ## 功能
 
@@ -29,7 +29,6 @@ vue-health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/
 - [x] 搜索、热点文章
 - [x] 动态增减栏目
 - [x] 文章标签
-- [x] 微信客户端登录 / 注销
 - [x] 文章的评论、点赞、收藏、微信客户端分享
 - [x] 阅读历史、评论历史
 - [x] 文章后台管理（发表、修改、删除、撤回、预览等功能）
@@ -43,22 +42,21 @@ vue-health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/
 - [x] 右滑返回上一页（指令）
 - [x] 视频播放的加载、重播指示以及悬浮等
 - [x] 热更新、版本更新
-- [x] GPS定位
 - [x] ...
 
 ## 部分截图
 
 - 首页、详情页
 
-<img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/native_index.png" width="365" height="619"/> <img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/native_detail.png" width="365" height="619"/>
+<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_index.png" width="365" height="619"/> <img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_detail.png" width="365" height="619"/>
 
 - 频道页、用户页
 
-<img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/native_channel.png" width="365" height="619"/> <img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/native_user.png" width="365" height="619"/>
+<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_channel.png" width="365" height="619"/> <img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_user.png" width="365" height="619"/>
 
 - 后台文章管理页、广告页
 
-<img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/native_health.png" width="365" height="619"/> <img src="https://github.com/uncleLian/vue2-native/raw/master/screenshots/native_ad.png" width="365" height="619"/>
+<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_health.png" width="365" height="619"/> <img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_ad.png" width="365" height="619"/>
 
 ## 目录结构
 
