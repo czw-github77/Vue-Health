@@ -152,34 +152,6 @@ export default {
             }
         }
     },
-    beforeRouteEnter(to, from, next) {
-        next(vm => {
-            // 是否登录
-            if (vm.isLogin) {
-                // 是否同步过数据
-                if (vm.request) {
-                    vm.get_collectArticle_cache()
-                } else {
-                    vm.getCollectAjax()
-                }
-            } else {
-                // 是否第一次进入页面
-                if (vm.first) {
-                    vm.$msgBox.confirm('登录后可以同步用户数据')
-                    .then(action => {
-                        vm.$router.push('/login')
-                    })
-                    .catch(err => {
-                        console.log(err)
-                        vm.get_collectArticle_cache()
-                    })
-                    vm.first = false
-                } else {
-                    vm.get_collectArticle_cache()
-                }
-            }
-        })
-    },
     deactivated () {
         this.editBtn = false
         this.handleLocaltion('set')
