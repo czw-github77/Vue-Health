@@ -55,7 +55,7 @@ Vue-Health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/
 
 - 后台文章管理页、广告页
 
-<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_health.png" width="365" height="619"/> <img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_ad.png" width="365" height="619"/>
+<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_ad.png" width="365" height="619"/>
 
 ## 目录结构
 
