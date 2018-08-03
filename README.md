@@ -15,11 +15,11 @@ Vue-Health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/
 
 [项目演示请戳这里](http://native.liansixin.win)（请使用手机模式预览）
 
-<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_QRcode.png" width="250" height="250"/>
+<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_QRcode.png" width="250" height="250"/>
 
 [安装包请戳这里](http://m.toutiaojk.com/guide.html)（目前只支持 Android）
 
-<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/downLoad_QRcode.png" width="250" height="250"/>
+<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/downLoad_QRcode.png" width="250" height="250"/>
 
 ## 功能
 
@@ -48,15 +48,15 @@ Vue-Health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/
 
 - 首页、详情页
 
-<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_index.png" width="365" height="619"/> <img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_detail.png" width="365" height="619"/>
+<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_index.png" width="365" height="619"/> <img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_detail.png" width="365" height="619"/>
 
 - 频道页、用户页
 
-<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_channel.png" width="365" height="619"/> <img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_user.png" width="365" height="619"/>
+<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_channel.png" width="365" height="619"/> <img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_user.png" width="365" height="619"/>
 
 - 后台文章管理页、广告页
 
-<img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_health.png" width="365" height="619"/> <img src="https://github.com/puijezi/Vue-Health/raw/master/screenshots/native_ad.png" width="365" height="619"/>
+<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_health.png" width="365" height="619"/> <img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_ad.png" width="365" height="619"/>
 
 ## 目录结构
 
