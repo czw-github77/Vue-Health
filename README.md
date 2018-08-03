@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue-Health
 ![image](https://img.shields.io/badge/vue-2.5.13-blue.svg)
 ![image](https://img.shields.io/badge/vue--router-3.0.1-blue.svg)
@@ -161,3 +162,6 @@ npm run build（File in the docs folder）
 
 # Vue-Health
 基于vue2 + vue-router + vuex 构建的一个新闻类大型单页面应用 —— 仿今日头条
+=======
+# Vue-Health
+>>>>>>> 9e1ed5ab5a251e87f2ccf5b6dd3631426b6452bd
