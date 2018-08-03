@@ -64,7 +64,7 @@ export default {
                 }
             })
         },
-        // 自己实现导航栏滚动
+        // 自己实现
         slideTo (index) {
             this.$nextTick(() => {
                 let _container = $('.nav_ul')           // 获取滚动容器元素
@@ -183,7 +183,7 @@ menu_width = 1.06rem
                 display: none;
             }
             a {
-                display:table-cell; 
+                display:table-cell;
                 *display:inline-block;
                 vertical-align: middle;
                 padding: 0 0.267rem;

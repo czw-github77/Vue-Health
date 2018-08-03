@@ -13,13 +13,8 @@ Vue-Health 是一个仿今日头条的练习项目(https://baike.baidu.com/item/
 
 ## 项目演示
 
-[项目演示请戳这里](http://native.liansixin.win)（请使用手机模式预览）
+[项目演示请戳这里](http://lazyer.xyz)（请使用手机模式预览）
 
-<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/native_QRcode.png" width="250" height="250"/>
-
-[安装包请戳这里](http://m.toutiaojk.com/guide.html)（目前只支持 Android）
-
-<img src="https://github.com/pujiezi/Vue-Health/raw/master/screenshots/downLoad_QRcode.png" width="250" height="250"/>
 
 ## 功能
 
